@@ -1,0 +1,1911 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Basti\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-13 15:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-6.0-RC4-53440\n"
+"X-Domain: basti"
+
+#: inc/admin/theme-admin.php:88
+msgid " Demos"
+msgstr ""
+
+#: inc/patterns/general/testimonials-1.php:14
+msgid ""
+"\"I absolutely love my new clothes from Avalon! The styles are trendy and "
+"fashionable, and the fabrics are soft and comfortable. I received so many "
+"compliments on my outfit when I wore it out. I am so glad I chose Avalon for "
+"my wardrobe update!\""
+msgstr ""
+
+#: inc/patterns/general/testimonials-1.php:36
+msgid ""
+"\"I am absolutely in love with the clothes from this boutique! I always find "
+"the perfect pieces for any occasion and the quality is unbeatable. The "
+"prices are also great, so I am able to get lots of pieces without breaking "
+"the bank.\""
+msgstr ""
+
+#: inc/patterns/general/testimonials-1.php:58
+msgid ""
+"\"I love shopping at Avalon! Their selection of clothing is amazing and "
+"their prices are so affordable. They have everything I need, from casualwear "
+"to formalwear. The quality of the clothing is great.\""
+msgstr ""
+
+#: inc/patterns/general/hero-7.php:15 inc/patterns/header/header-6.php:12 
+#: inc/patterns/header/header-3.php:12 inc/patterns/header/header-8.php:22 
+#: inc/patterns/header/header-2.php:14 inc/patterns/header/header-1.php:12 
+#: inc/patterns/header/header-5.php:12 inc/patterns/header/header-4.php:14 
+#: inc/patterns/header/header-7.php:12
+msgid "$100"
+msgstr ""
+
+#. 1: Title Tag 2: Theme Name 3: Closing Title Tag
+#: inc/merlin/merlin-config.php:32
+#, php-format
+msgid "%1$s%2$s Themes &lsaquo; Theme Setup: %3$s%4$s"
+msgstr ""
+
+#: inc/patterns/ecommerce/ecommerce-4.php:21
+msgid "*Ends October 18, 2022, 13:59 PST"
+msgstr ""
+
+#: inc/patterns/general/contact-1.php:28
+msgid "+1-123-456-789"
+msgstr ""
+
+#: inc/patterns/footer/footer-2.php:27 inc/patterns/footer/footer-1.php:112
+msgid "+391 (0)35 2568 4593"
+msgstr ""
+
+#: inc/patterns/general/contact-2.php:30 inc/patterns/general/contact-2.php:40
+msgid "+987 123 456"
+msgstr ""
+
+#: inc/patterns/general/hero-8.php:17 inc/patterns/general/hero-3.php:31 
+#: inc/patterns/pages/home.php:17 inc/patterns/pages/home-2.php:161
+msgid "-40%"
+msgstr ""
+
+#: inc/patterns/general/hero-7.php:15 inc/patterns/header/header-6.php:12 
+#: inc/patterns/header/header-3.php:12 inc/patterns/header/header-8.php:22 
+#: inc/patterns/header/header-2.php:14 inc/patterns/header/header-1.php:12 
+#: inc/patterns/header/header-5.php:12 inc/patterns/header/header-4.php:14 
+#: inc/patterns/header/header-7.php:12
+msgid ". Don’t miss it!"
+msgstr ""
+
+#: inc/patterns/general/faq-2.php:17 inc/patterns/general/faq-1.php:18
+msgid "01. Free Shipping?"
+msgstr ""
+
+#: inc/patterns/general/faq-2.php:35 inc/patterns/general/faq-1.php:36
+msgid "02. Money Guarantee?"
+msgstr ""
+
+#: inc/patterns/general/faq-2.php:53 inc/patterns/general/faq-1.php:54
+msgid "03. Flexible Payment?"
+msgstr ""
+
+#: inc/patterns/general/contact-2.php:30 inc/patterns/general/contact-2.php:40
+msgid "12345 London"
+msgstr ""
+
+#: inc/patterns/general/about-1.php:63 inc/patterns/pages/about.php:63
+msgid "2000+"
+msgstr ""
+
+#: inc/patterns/general/about-4.php:64 inc/patterns/pages/home-3.php:86 
+#: inc/patterns/pages/home-1.php:102 inc/patterns/pages/home-2.php:102 
+#: inc/patterns/footer/footer-1.php:65
+msgid "24 hours a day, 7 days a week"
+msgstr ""
+
+#: inc/patterns/ecommerce/ecommerce-1.php:21 
+#: inc/patterns/ecommerce/ecommerce-2.php:22
+msgid "24$"
+msgstr ""
+
+#: inc/patterns/general/about-1.php:43 inc/patterns/pages/about.php:43
+msgid "250,000+&nbsp;"
+msgstr ""
+
+#: inc/patterns/general/about-1.php:57 inc/patterns/pages/about.php:57
+msgid "3000 Ratings"
+msgstr ""
+
+#: inc/block-styles.php:220
+msgid "3d Button Dark"
+msgstr ""
+
+#: inc/block-styles.php:213
+msgid "3d Button Light"
+msgstr ""
+
+#: inc/patterns/general/about-1.php:49 inc/patterns/pages/about.php:49
+msgid "4.8"
+msgstr ""
+
+#: inc/patterns/ecommerce/ecommerce-4.php:39
+msgid "40%"
+msgstr ""
+
+#: inc/patterns/hidden/hidden-404.php:6
+msgid "404 content"
+msgstr ""
+
+#: inc/patterns/ecommerce/ecommerce-2.php:54
+msgid "46$"
+msgstr ""
+
+#: inc/patterns/ecommerce/ecommerce-4.php:13
+msgid "50%"
+msgstr ""
+
+#: inc/patterns/ecommerce/ecommerce-1.php:81
+msgid "56$"
+msgstr ""
+
+#: inc/patterns/ecommerce/ecommerce-1.php:51
+msgid "79$"
+msgstr ""
+
+#: inc/patterns/ecommerce/ecommerce-2.php:86
+msgid "94$"
+msgstr ""
+
+#: inc/patterns/general/faq-1.php:79
+msgid "?"
+msgstr ""
+
+#: inc/block-patterns.php:18 inc/patterns/pages/about.php:6
+msgid "About"
+msgstr ""
+
+#: inc/patterns/general/about-1.php:6
+msgid "About 1"
+msgstr ""
+
+#: inc/patterns/general/about-2.php:6
+msgid "About 2"
+msgstr ""
+
+#: inc/patterns/general/about-3.php:6
+msgid "About 3"
+msgstr ""
+
+#: inc/patterns/general/about-4.php:6
+msgid "About 4"
+msgstr ""
+
+#: inc/patterns/footer/footer-4.php:49 inc/patterns/footer/footer-2.php:67 
+#: inc/patterns/footer/footer-3.php:57 inc/patterns/footer/footer-1.php:152
+msgid "About Us"
+msgstr ""
+
+#: inc/patterns/general/about-1.php:20 inc/patterns/pages/about.php:20
+msgid "About us"
+msgstr ""
+
+#: inc/patterns/general/about-3.php:12 inc/patterns/general/about-2.php:12 
+#: inc/patterns/pages/home-4.php:66 inc/patterns/pages/about.php:80 
+#: inc/patterns/pages/about.php:168 inc/patterns/pages/home-1.php:156 
+#: inc/patterns/pages/home-2.php:214
+msgid "about us"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:42
+msgid "Activating..."
+msgstr ""
+
+#: inc/merlin/merlin-config.php:60
+msgid ""
+"Activation failed: An unexpected error occurred. Something may be wrong with "
+"WordPress.org or this server's configuration."
+msgstr ""
+
+#: inc/patterns/general/contact-1.php:38
+msgid "Address Line 1"
+msgstr ""
+
+#: inc/patterns/general/contact-1.php:34 inc/patterns/general/contact-1.php:44
+msgid "Address:"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:61 inc/merlin/merlin-config.php:66
+msgid "Advanced"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:68
+msgid "All done. Have fun!"
+msgstr ""
+
+#. %5$s - %6$s: search term
+#: inc/merlin/includes/class-merlin-downloader.php:85
+#, php-format
+msgid ""
+"An error occurred while fetching file from: %1$s%2$s%3$s!%4$sReason: %5$s - "
+"%6$s."
+msgstr ""
+
+#. Author of the theme
+#: inc/admin/theme-admin.php:66
+msgid "Anariel Design"
+msgstr ""
+
+#: inc/patterns/general/faq-1.php:79
+msgid "answer"
+msgstr ""
+
+#: inc/patterns/general/faq-2.php:10 inc/patterns/general/faq-1.php:12
+msgid "answers"
+msgstr ""
+
+#: inc/patterns/general/team-1.php:55 inc/patterns/general/team-3.php:50 
+#: inc/patterns/general/team-2.php:55
+msgid ""
+"As a fashion CEO, I believe it is important to stay up to date on new "
+"technologies and materials that are being used to create textiles."
+msgstr ""
+
+#: inc/patterns/general/team-1.php:25 inc/patterns/general/team-3.php:22 
+#: inc/patterns/general/team-2.php:25
+msgid ""
+"As a fashion designer, I strive to create unique pieces that capture the "
+"essence of style, beauty, and comfort."
+msgstr ""
+
+#. Name of the theme
+#: inc/admin/theme-admin.php:61 inc/admin/theme-admin.php:188
+msgid "Avalon"
+msgstr ""
+
+#: inc/admin/theme-admin.php:19
+msgid "Avalon Getting Started"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Avalon is a versatile, easy-to-use block-based WordPress theme optimized for "
+"nonprofit organizations. It comes with dozens of beautifully designed block "
+"patterns, headers, footers, carefully selected typography, and color options "
+"that can be mixed and matched to turn almost any idea into reality. Avalon "
+"also includes professionally designed starter sites that can easily be "
+"imported with a few clicks."
+msgstr ""
+
+#: inc/admin/theme-admin.php:80
+msgid ""
+"Avalon is now installed and ready to use. You can start building something "
+"beautiful from scratch using a selection of block and page patterns "
+"available in the page/post editor."
+msgstr ""
+
+#: inc/patterns/footer/footer-4.php:91 inc/patterns/footer/footer-2.php:116 
+#: inc/patterns/footer/footer-3.php:106 inc/patterns/footer/footer-5.php:50 
+#: inc/patterns/footer/footer-1.php:203
+msgid "Avalon Theme"
+msgstr ""
+
+#: inc/patterns/general/team-3.php:12 inc/patterns/general/team-3.php:40 
+#: inc/patterns/general/team-3.php:68 inc/patterns/general/hero-5.php:9 
+#: inc/patterns/general/hero-7.php:9 inc/patterns/pages/shop-2.php:9 
+#: inc/patterns/pages/home-3.php:135 inc/patterns/footer/footer-4.php:10
+msgid "Background Image"
+msgstr ""
+
+#: inc/block-patterns.php:26
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/patterns/query/query-1.php:6
+msgid "Blog Layout 1"
+msgstr ""
+
+#: inc/patterns/query/query-2.php:6
+msgid "Blog Layout 2"
+msgstr ""
+
+#: inc/patterns/query/query-3.php:6
+msgid "Blog Layout 3"
+msgstr ""
+
+#: inc/patterns/query/query-4.php:6
+msgid "Blog Layout 4"
+msgstr ""
+
+#: inc/patterns/query/query-5.php:6
+msgid "Blog Layout 5"
+msgstr ""
+
+#: inc/patterns/query/query-6.php:6
+msgid "Blog Layout 6"
+msgstr ""
+
+#: inc/patterns/query/query-7.php:6
+msgid "Blog Layout 7"
+msgstr ""
+
+#: inc/patterns/query/query-8.php:6
+msgid "Blog Layout 8"
+msgstr ""
+
+#: inc/patterns/query/query-9.php:6
+msgid "Blog Layout 9"
+msgstr ""
+
+#: inc/patterns/pages/home.php:220 inc/patterns/ecommerce/ecommerce-6.php:70
+msgid "Bluse"
+msgstr ""
+
+#: inc/block-styles.php:125 inc/block-styles.php:134 inc/block-styles.php:143 
+#: inc/block-styles.php:152 inc/block-styles.php:283
+msgid "Border"
+msgstr ""
+
+#: inc/block-styles.php:274
+msgid "Border & Shadow"
+msgstr ""
+
+#: inc/block-styles.php:345
+msgid "Border Top Radius"
+msgstr ""
+
+#: inc/patterns/pages/home.php:165 inc/patterns/ecommerce/ecommerce-6.php:15
+msgid "Browse through our categories to find the perfect look for you."
+msgstr ""
+
+#: inc/block-styles.php:248
+msgid "Button Effect One"
+msgstr ""
+
+#: inc/block-styles.php:256
+msgid "Button Effect Two"
+msgstr ""
+
+#: inc/block-styles.php:234
+msgid "Button Line Dark"
+msgstr ""
+
+#: inc/block-styles.php:227
+msgid "Button Line Light"
+msgstr ""
+
+#: inc/block-styles.php:241
+msgid "Button Shadow"
+msgstr ""
+
+#: inc/patterns/footer/footer-4.php:91 inc/patterns/footer/footer-2.php:116 
+#: inc/patterns/footer/footer-3.php:106 inc/patterns/footer/footer-5.php:50 
+#: inc/patterns/footer/footer-1.php:203
+msgid "by Anariel Design"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:40
+msgid "Cancel"
+msgstr ""
+
+#: inc/patterns/footer/footer-2.php:112 inc/patterns/footer/footer-1.php:197
+msgid "Cards"
+msgstr ""
+
+#: inc/patterns/footer/footer-4.php:53 inc/patterns/footer/footer-2.php:71 
+#: inc/patterns/footer/footer-3.php:61 inc/patterns/footer/footer-1.php:156
+msgid "Careers"
+msgstr ""
+
+#: inc/patterns/footer/footer-4.php:35 inc/patterns/footer/footer-2.php:51 
+#: inc/patterns/footer/footer-3.php:43 inc/patterns/footer/footer-1.php:136
+msgid "Cart"
+msgstr ""
+
+#: inc/patterns/pages/shop.php:14 inc/patterns/pages/shop-1.php:24
+msgid "Categories"
+msgstr ""
+
+#: inc/patterns/general/team-3.php:46 inc/patterns/general/team-2.php:51
+msgid "CEO"
+msgstr ""
+
+#: inc/patterns/general/team-1.php:47
+msgid "Ceo"
+msgstr ""
+
+#: inc/patterns/footer/footer-4.php:39 inc/patterns/footer/footer-2.php:55 
+#: inc/patterns/footer/footer-3.php:47 inc/patterns/footer/footer-1.php:140
+msgid "Checkout"
+msgstr ""
+
+#: inc/patterns/general/about-1.php:43 inc/patterns/pages/about.php:43
+msgid "Clients worldwide since 2017"
+msgstr ""
+
+#: inc/patterns/general/hero-1.php:12 inc/patterns/general/hero-2.php:12 
+#: inc/patterns/general/hero-9.php:26 inc/patterns/pages/home.php:70 
+#: inc/patterns/pages/home.php:140 inc/patterns/pages/home-4.php:12 
+#: inc/patterns/pages/home-3.php:194 inc/patterns/pages/home-1.php:12 
+#: inc/patterns/pages/home-2.php:12
+msgid "Collection"
+msgstr ""
+
+#: inc/patterns/footer/footer-2.php:15 inc/patterns/footer/footer-1.php:100
+msgid "Company"
+msgstr ""
+
+#: inc/block-patterns.php:23
+msgid "Contact"
+msgstr ""
+
+#: inc/patterns/general/contact-1.php:6
+msgid "Contact 1"
+msgstr ""
+
+#: inc/patterns/general/contact-2.php:6
+msgid "Contact 2"
+msgstr ""
+
+#: inc/patterns/footer/footer-5.php:18
+msgid "Contact Now"
+msgstr ""
+
+#: inc/patterns/general/contact-1.php:14
+msgid "Contact us"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:647 inc/merlin/class-merlin.php:1419
+msgid "Content"
+msgstr ""
+
+#: inc/patterns/footer/footer-3.php:112
+msgid "Cookie Policy"
+msgstr ""
+
+#: inc/patterns/pages/home-4.php:168 inc/patterns/pages/home-3.php:258 
+#: inc/patterns/pages/about.php:242 inc/patterns/pages/about.php:282 
+#: inc/patterns/pages/home-1.php:260 inc/patterns/pages/home-2.php:298 
+#: inc/patterns/ecommerce/ecommerce-3.php:48 
+#: inc/patterns/ecommerce/ecommerce-8.php:54
+msgid "Cool Jacket"
+msgstr ""
+
+#: inc/patterns/footer/footer-1.php:6
+msgid "Default Footer"
+msgstr ""
+
+#: inc/patterns/footer/footer-4.php:57 inc/patterns/footer/footer-2.php:75 
+#: inc/patterns/footer/footer-3.php:65 inc/patterns/footer/footer-1.php:160
+msgid "Delivery Info"
+msgstr ""
+
+#: inc/admin/theme-admin.php:20
+msgid "Demo Content"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1420
+msgid "Demo content data."
+msgstr ""
+
+#: inc/patterns/general/faq-1.php:79
+msgid "Did not find your "
+msgstr ""
+
+#: inc/merlin/merlin-config.php:34
+msgid "Disable this wizard"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:74
+msgid "Documentation"
+msgstr ""
+
+#: inc/patterns/general/team-1.php:51 inc/patterns/general/team-3.php:42 
+#: inc/patterns/general/team-2.php:47
+msgid "Down Smile"
+msgstr ""
+
+#: inc/block-patterns.php:24
+msgid "eCommerce"
+msgstr ""
+
+#: inc/patterns/ecommerce/ecommerce-1.php:6
+msgid "eCommerce 1"
+msgstr ""
+
+#: inc/patterns/ecommerce/ecommerce-2.php:6
+msgid "eCommerce 2"
+msgstr ""
+
+#: inc/patterns/ecommerce/ecommerce-3.php:6
+msgid "eCommerce 3"
+msgstr ""
+
+#: inc/patterns/ecommerce/ecommerce-4.php:6
+msgid "eCommerce 4"
+msgstr ""
+
+#: inc/patterns/ecommerce/ecommerce-5.php:6
+msgid "eCommerce 5"
+msgstr ""
+
+#: inc/patterns/ecommerce/ecommerce-6.php:6
+msgid "eCommerce 6"
+msgstr ""
+
+#: inc/patterns/ecommerce/ecommerce-7.php:6
+msgid "eCommerce 7"
+msgstr ""
+
+#: inc/patterns/ecommerce/ecommerce-8.php:6
+msgid "eCommerce 8"
+msgstr ""
+
+#: inc/patterns/ecommerce/ecommerce-9.php:6
+msgid "eCommerce 9"
+msgstr ""
+
+#: inc/block-styles.php:98 inc/block-styles.php:319
+msgid "Effect 1"
+msgstr ""
+
+#: inc/block-styles.php:107 inc/block-styles.php:328
+msgid "Effect 2"
+msgstr ""
+
+#: inc/block-styles.php:116
+msgid "Effect 3"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1341
+msgid "Error"
+msgstr ""
+
+#: inc/patterns/hidden/hidden-404.php:9
+msgctxt "Error code for a webpage that is not found."
+msgid "404"
+msgstr ""
+
+#: inc/patterns/footer/footer-3.php:80 inc/patterns/footer/footer-3.php:84 
+#: inc/patterns/footer/footer-3.php:88
+msgid "Events"
+msgstr ""
+
+#: inc/patterns/general/testimonials-3.php:21 
+#: inc/patterns/general/testimonials-3.php:57 
+#: inc/patterns/general/testimonials-3.php:93 
+#: inc/patterns/general/testimonials-2.php:17 
+#: inc/patterns/general/testimonials-2.php:81
+msgid "Excelent Work"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:65
+msgid "Explore Demos"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:72
+msgid "Extras"
+msgstr ""
+
+#: inc/block-patterns.php:21
+msgid "FAQ"
+msgstr ""
+
+#: inc/patterns/general/faq-1.php:6
+msgid "FAQ 1"
+msgstr ""
+
+#: inc/patterns/general/faq-2.php:6
+msgid "FAQ 2"
+msgstr ""
+
+#: inc/patterns/general/about-3.php:34 inc/patterns/general/about-3.php:40 
+#: inc/patterns/general/about-1.php:13 inc/patterns/general/about-1.php:24 
+#: inc/patterns/general/about-2.php:34 inc/patterns/general/about-2.php:48 
+#: inc/patterns/general/about-2.php:64 inc/patterns/general/about-2.php:78 
+#: inc/patterns/general/hero-7.php:63 inc/patterns/general/about-4.php:14 
+#: inc/patterns/general/about-4.php:34 inc/patterns/general/about-4.php:54 
+#: inc/patterns/general/about-4.php:74 inc/patterns/general/hero-4.php:9 
+#: inc/patterns/pages/home-4.php:88 inc/patterns/pages/home-4.php:94 
+#: inc/patterns/pages/home-4.php:153 inc/patterns/pages/home-4.php:164 
+#: inc/patterns/pages/home-4.php:193 inc/patterns/pages/home-4.php:204 
+#: inc/patterns/pages/home-4.php:233 inc/patterns/pages/home-4.php:244 
+#: inc/patterns/pages/home-3.php:9 inc/patterns/pages/home-3.php:36 
+#: inc/patterns/pages/home-3.php:56 inc/patterns/pages/home-3.php:76 
+#: inc/patterns/pages/home-3.php:96 inc/patterns/pages/home-3.php:243 
+#: inc/patterns/pages/home-3.php:254 inc/patterns/pages/home-3.php:283 
+#: inc/patterns/pages/home-3.php:294 inc/patterns/pages/home-3.php:323 
+#: inc/patterns/pages/home-3.php:334 inc/patterns/pages/about.php:13 
+#: inc/patterns/pages/about.php:24 inc/patterns/pages/about.php:102 
+#: inc/patterns/pages/about.php:116 inc/patterns/pages/about.php:132 
+#: inc/patterns/pages/about.php:146 inc/patterns/pages/about.php:190 
+#: inc/patterns/pages/about.php:196 inc/patterns/pages/about.php:227 
+#: inc/patterns/pages/about.php:238 inc/patterns/pages/about.php:267 
+#: inc/patterns/pages/about.php:278 inc/patterns/pages/about.php:307 
+#: inc/patterns/pages/about.php:318 inc/patterns/pages/about.php:347 
+#: inc/patterns/pages/about.php:358 inc/patterns/pages/home-1.php:52 
+#: inc/patterns/pages/home-1.php:72 inc/patterns/pages/home-1.php:92 
+#: inc/patterns/pages/home-1.php:112 inc/patterns/pages/home-1.php:178 
+#: inc/patterns/pages/home-1.php:184 inc/patterns/pages/home-1.php:245 
+#: inc/patterns/pages/home-1.php:256 inc/patterns/pages/home-1.php:285 
+#: inc/patterns/pages/home-1.php:296 inc/patterns/pages/home-1.php:325 
+#: inc/patterns/pages/home-1.php:336 inc/patterns/pages/home-2.php:52 
+#: inc/patterns/pages/home-2.php:72 inc/patterns/pages/home-2.php:92 
+#: inc/patterns/pages/home-2.php:112 inc/patterns/pages/home-2.php:236 
+#: inc/patterns/pages/home-2.php:242 inc/patterns/pages/home-2.php:283 
+#: inc/patterns/pages/home-2.php:294 inc/patterns/pages/home-2.php:323 
+#: inc/patterns/pages/home-2.php:334 inc/patterns/pages/home-2.php:363 
+#: inc/patterns/pages/home-2.php:374 inc/patterns/ecommerce/ecommerce-1.php:12 
+#: inc/patterns/ecommerce/ecommerce-1.php:42 
+#: inc/patterns/ecommerce/ecommerce-1.php:72 
+#: inc/patterns/ecommerce/ecommerce-2.php:12 
+#: inc/patterns/ecommerce/ecommerce-2.php:44 
+#: inc/patterns/ecommerce/ecommerce-2.php:76 
+#: inc/patterns/ecommerce/ecommerce-3.php:33 
+#: inc/patterns/ecommerce/ecommerce-3.php:44 
+#: inc/patterns/ecommerce/ecommerce-3.php:73 
+#: inc/patterns/ecommerce/ecommerce-3.php:84 
+#: inc/patterns/ecommerce/ecommerce-3.php:113 
+#: inc/patterns/ecommerce/ecommerce-3.php:124 
+#: inc/patterns/ecommerce/ecommerce-8.php:39 
+#: inc/patterns/ecommerce/ecommerce-8.php:50 
+#: inc/patterns/ecommerce/ecommerce-8.php:79 
+#: inc/patterns/ecommerce/ecommerce-8.php:90 
+#: inc/patterns/ecommerce/ecommerce-8.php:119 
+#: inc/patterns/ecommerce/ecommerce-8.php:130 
+#: inc/patterns/footer/footer-1.php:15 inc/patterns/footer/footer-1.php:35 
+#: inc/patterns/footer/footer-1.php:55 inc/patterns/footer/footer-1.php:75
+msgid "Fashion"
+msgstr ""
+
+#: inc/patterns/general/hero-1.php:28 inc/patterns/general/hero-1.php:32 
+#: inc/patterns/general/hero-1.php:36 inc/patterns/general/hero-8.php:32 
+#: inc/patterns/general/hero-8.php:38 inc/patterns/general/hero-3.php:12 
+#: inc/patterns/general/hero-3.php:20 inc/patterns/general/hero-2.php:30 
+#: inc/patterns/general/hero-2.php:34 inc/patterns/general/hero-2.php:40 
+#: inc/patterns/general/hero-2.php:44 inc/patterns/general/hero-9.php:12 
+#: inc/patterns/general/hero-9.php:16 inc/patterns/general/hero-9.php:20 
+#: inc/patterns/pages/home.php:32 inc/patterns/pages/home.php:38 
+#: inc/patterns/pages/home.php:86 inc/patterns/pages/home.php:90 
+#: inc/patterns/pages/home.php:94 inc/patterns/pages/home.php:126 
+#: inc/patterns/pages/home.php:130 inc/patterns/pages/home.php:134 
+#: inc/patterns/pages/home-4.php:28 inc/patterns/pages/home-4.php:32 
+#: inc/patterns/pages/home-4.php:36 inc/patterns/pages/home-3.php:180 
+#: inc/patterns/pages/home-3.php:184 inc/patterns/pages/home-3.php:188 
+#: inc/patterns/pages/home-1.php:30 inc/patterns/pages/home-1.php:36 
+#: inc/patterns/pages/home-2.php:30 inc/patterns/pages/home-2.php:36 
+#: inc/patterns/pages/home-2.php:176 inc/patterns/pages/home-2.php:182
+msgid "Fashion & Style"
+msgstr ""
+
+#: inc/patterns/general/team-1.php:17 inc/patterns/general/team-3.php:18 
+#: inc/patterns/general/team-2.php:21 inc/patterns/query/query-3.php:53 
+#: inc/patterns/query/query-4.php:23
+msgid "Fashion Designer"
+msgstr ""
+
+#: inc/patterns/query/query-3.php:80 inc/patterns/query/query-4.php:50 
+#: inc/patterns/pages/shop-1.php:76
+msgid "Fashion Event"
+msgstr ""
+
+#: inc/patterns/general/about-2.php:16 inc/patterns/pages/about.php:84
+msgid "Fashion for Women"
+msgstr ""
+
+#: inc/patterns/general/team-1.php:85 inc/patterns/general/team-3.php:78 
+#: inc/patterns/general/team-2.php:85
+msgid ""
+"Fashion marketing is all about connecting with your target audience and "
+"understanding their needs, wants, and desires."
+msgstr ""
+
+#: inc/patterns/pages/shop.php:24 inc/patterns/pages/shop-1.php:34
+msgid "Filter by Price"
+msgstr ""
+
+#: inc/patterns/pages/shop.php:37 inc/patterns/pages/shop-1.php:47
+msgid "Filter by Rating"
+msgstr ""
+
+#: inc/patterns/pages/shop.php:48 inc/patterns/pages/shop-1.php:58
+msgid "Filter by stock status"
+msgstr ""
+
+#: inc/patterns/footer/footer-2.php:19 inc/patterns/footer/footer-1.php:104
+msgid "Find a location nearest you.&nbsp;"
+msgstr ""
+
+#: functions.php:112
+msgid "Finished"
+msgstr ""
+
+#: inc/patterns/general/about-2.php:68 inc/patterns/general/about-4.php:80 
+#: inc/patterns/pages/home-3.php:102 inc/patterns/pages/about.php:136 
+#: inc/patterns/pages/home-1.php:118 inc/patterns/pages/home-2.php:118 
+#: inc/patterns/footer/footer-1.php:81
+msgid "Flexible Payment"
+msgstr ""
+
+#: inc/patterns/general/faq-2.php:63 inc/patterns/general/about-2.php:72 
+#: inc/patterns/general/faq-1.php:64 inc/patterns/pages/about.php:140
+msgid ""
+"Flexible payment options allow customers to choose from a variety of payment "
+"methods, including credit cards, debit cards, online payment services, and "
+"even cash."
+msgstr ""
+
+#: inc/admin/theme-admin.php:195
+msgid ""
+"Follow the steps to configure your new theme and begin customizing your site."
+msgstr ""
+
+#: inc/block-patterns.php:16
+msgid "Footer"
+msgstr ""
+
+#: inc/patterns/footer/footer-2.php:6
+msgid "Footer 2"
+msgstr ""
+
+#: inc/patterns/footer/footer-3.php:6
+msgid "Footer 3"
+msgstr ""
+
+#: inc/patterns/footer/footer-4.php:6
+msgid "Footer 4"
+msgstr ""
+
+#: inc/patterns/footer/footer-5.php:6
+msgid "Footer 5"
+msgstr ""
+
+#: inc/patterns/general/hero-7.php:15 inc/patterns/header/header-6.php:12 
+#: inc/patterns/header/header-3.php:12 inc/patterns/header/header-8.php:22 
+#: inc/patterns/header/header-2.php:14 inc/patterns/header/header-1.php:12 
+#: inc/patterns/header/header-5.php:12 inc/patterns/header/header-4.php:14 
+#: inc/patterns/header/header-7.php:12
+msgid "Free Delivery on orders over"
+msgstr ""
+
+#: inc/patterns/general/about-2.php:38 inc/patterns/general/about-4.php:20 
+#: inc/patterns/pages/home-3.php:42 inc/patterns/pages/about.php:106 
+#: inc/patterns/pages/home-1.php:58 inc/patterns/pages/home-2.php:58 
+#: inc/patterns/footer/footer-1.php:21
+msgid "Free Shipping"
+msgstr ""
+
+#: inc/patterns/general/about-4.php:24 inc/patterns/pages/home-3.php:46 
+#: inc/patterns/pages/home-1.php:62 inc/patterns/pages/home-2.php:62 
+#: inc/patterns/footer/footer-1.php:25
+msgid "Free Shipping for orders over $110"
+msgstr ""
+
+#: inc/patterns/pages/home-4.php:147 inc/patterns/pages/home-4.php:187 
+#: inc/patterns/pages/home-4.php:227 inc/patterns/pages/home-3.php:237 
+#: inc/patterns/pages/home-3.php:277 inc/patterns/pages/home-3.php:317 
+#: inc/patterns/pages/about.php:221 inc/patterns/pages/about.php:261 
+#: inc/patterns/pages/about.php:301 inc/patterns/pages/about.php:341 
+#: inc/patterns/pages/home-1.php:239 inc/patterns/pages/home-1.php:279 
+#: inc/patterns/pages/home-1.php:319 inc/patterns/pages/home-2.php:277 
+#: inc/patterns/pages/home-2.php:317 inc/patterns/pages/home-2.php:357 
+#: inc/patterns/ecommerce/ecommerce-1.php:30 
+#: inc/patterns/ecommerce/ecommerce-1.php:60 
+#: inc/patterns/ecommerce/ecommerce-1.php:90 
+#: inc/patterns/ecommerce/ecommerce-2.php:31 
+#: inc/patterns/ecommerce/ecommerce-2.php:63 
+#: inc/patterns/ecommerce/ecommerce-2.php:95 
+#: inc/patterns/ecommerce/ecommerce-3.php:27 
+#: inc/patterns/ecommerce/ecommerce-3.php:67 
+#: inc/patterns/ecommerce/ecommerce-3.php:107 
+#: inc/patterns/ecommerce/ecommerce-8.php:33 
+#: inc/patterns/ecommerce/ecommerce-8.php:73 
+#: inc/patterns/ecommerce/ecommerce-8.php:113
+msgid ""
+"Fusce gravida ut nisi et facilisis. Nullam ut mi fermentum, posuere dolor id,"
+" ultricies ipsum. Duis urna ipsum, tincidunt ut lorem."
+msgstr ""
+
+#: inc/patterns/general/contact-2.php:10
+msgid "Get in Touch"
+msgstr ""
+
+#: inc/admin/theme-admin.php:199
+msgid "Get Started"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:75
+msgid "Get Theme Support"
+msgstr ""
+
+#: inc/admin/theme-admin.php:78
+msgid "Getting Started"
+msgstr ""
+
+#: inc/patterns/general/testimonials-2.php:49
+msgid "Great Job"
+msgstr ""
+
+#: inc/patterns/pages/home-4.php:219 inc/patterns/pages/home-3.php:309 
+#: inc/patterns/pages/about.php:333 inc/patterns/pages/home-1.php:311 
+#: inc/patterns/pages/home-2.php:349 inc/patterns/ecommerce/ecommerce-3.php:99 
+#: inc/patterns/ecommerce/ecommerce-8.php:105
+msgid "Hannah Love"
+msgstr ""
+
+#: inc/patterns/general/faq-2.php:10 inc/patterns/general/faq-1.php:12
+msgid "Have"
+msgstr ""
+
+#: inc/block-patterns.php:15
+msgid "Header"
+msgstr ""
+
+#: inc/patterns/header/header-1.php:6
+msgid "Header 1 - Default"
+msgstr ""
+
+#: inc/patterns/header/header-2.php:6
+msgid "Header 2"
+msgstr ""
+
+#: inc/patterns/header/header-3.php:6
+msgid "Header 3 - Sticky"
+msgstr ""
+
+#: inc/patterns/header/header-4.php:6
+msgid "Header 4 - Sticky"
+msgstr ""
+
+#: inc/patterns/header/header-5.php:6
+msgid "Header 5"
+msgstr ""
+
+#: inc/patterns/header/header-6.php:6
+msgid "Header 6 - Sticky"
+msgstr ""
+
+#: inc/patterns/header/header-7.php:6
+msgid "Header 7"
+msgstr ""
+
+#: inc/patterns/header/header-8.php:6
+msgid "Header 8"
+msgstr ""
+
+#: inc/patterns/header/header-9.php:6
+msgid "Header 9"
+msgstr ""
+
+#: inc/patterns/footer/footer-2.php:31 inc/patterns/footer/footer-1.php:116
+msgid "hello@domain.com"
+msgstr ""
+
+#: inc/block-patterns.php:17
+msgid "Hero"
+msgstr ""
+
+#: inc/patterns/general/hero-1.php:6
+msgid "Hero 1"
+msgstr ""
+
+#: inc/patterns/general/hero-2.php:6
+msgid "Hero 2"
+msgstr ""
+
+#: inc/patterns/general/hero-3.php:6
+msgid "Hero 3"
+msgstr ""
+
+#: inc/patterns/general/hero-4.php:6
+msgid "Hero 4"
+msgstr ""
+
+#: inc/patterns/general/hero-5.php:6
+msgid "Hero 5"
+msgstr ""
+
+#: inc/patterns/general/hero-6.php:6
+msgid "Hero 6"
+msgstr ""
+
+#: inc/patterns/general/hero-7.php:6
+msgid "Hero 7"
+msgstr ""
+
+#: inc/patterns/general/hero-8.php:6
+msgid "Hero 8"
+msgstr ""
+
+#: inc/patterns/general/hero-9.php:6
+msgid "Hero 9"
+msgstr ""
+
+#: inc/patterns/query/query-3.php:57 inc/patterns/query/query-4.php:27
+msgid ""
+"Hey there! Welcome to our charity blog.We hope that this blog will inspire "
+"you to get involved and make a difference in the world. Thanks for reading!"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:51
+msgid "Hi. Welcome back"
+msgstr ""
+
+#: inc/patterns/pages/home.php:6
+msgid "Home"
+msgstr ""
+
+#: inc/patterns/pages/home-1.php:6
+msgid "Home 1"
+msgstr ""
+
+#: inc/patterns/pages/home-2.php:6
+msgid "Home 2"
+msgstr ""
+
+#: inc/patterns/pages/home-3.php:6
+msgid "Home 3"
+msgstr ""
+
+#: inc/patterns/pages/home-4.php:6
+msgid "Home 4"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:940
+msgid "Home Preview"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1432
+msgid "Homepage setup"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1433
+msgid "Homepage setup."
+msgstr ""
+
+#: inc/block-styles.php:161 inc/block-styles.php:170 inc/block-styles.php:179 
+#: inc/block-styles.php:188 inc/block-styles.php:197
+msgid "Hover Shadow"
+msgstr ""
+
+#. URI of the theme
+#: inc/patterns/footer/footer-4.php:91 inc/patterns/footer/footer-2.php:116 
+#: inc/patterns/footer/footer-3.php:106 inc/patterns/footer/footer-5.php:50 
+#: inc/patterns/footer/footer-1.php:203
+msgid "https://woocommerce.com/products/avalon"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://woocommerce.com/vendor/anariel-design/"
+msgstr ""
+
+#: inc/patterns/general/testimonials-3.php:30 
+#: inc/patterns/general/testimonials-2.php:26
+msgid ""
+"I absolutely love my new clothes from Avalon! The styles are trendy and "
+"fashionable, and the fabrics are soft and comfortable. I received so many "
+"compliments on my outfit when I wore it out. I am so glad I chose Avalon for "
+"my wardrobe update!"
+msgstr ""
+
+#: inc/patterns/general/testimonials-3.php:102 
+#: inc/patterns/general/testimonials-2.php:90
+msgid ""
+"I am absolutely in love with the clothes from this boutique! I always find "
+"the perfect pieces for any occasion and the quality is unbeatable. The "
+"prices are also great, so I am able to get lots of pieces without breaking "
+"the bank."
+msgstr ""
+
+#: inc/patterns/general/testimonials-3.php:66 
+#: inc/patterns/general/testimonials-2.php:58
+msgid ""
+"I love shopping at Avalon! Their selection of clothing is amazing and their "
+"prices are so affordable. They have everything I need, from casualwear to "
+"formalwear. The quality of the clothing is great."
+msgstr ""
+
+#: inc/patterns/footer/footer-5.php:13
+msgid "If you have any questions about our products or business, feel free to"
+msgstr ""
+
+#: inc/patterns/general/contact-2.php:20 inc/patterns/general/contact-1.php:18
+msgid ""
+"If you have any questions or would like to get in touch, please feel free to "
+"contact us at info@example.com or fill out the form below and we will get "
+"back to you as soon as possible."
+msgstr ""
+
+#: inc/admin/theme-admin.php:83
+msgid ""
+"If you wish to use one our demo as a starting point select the demo below "
+"and the setup wizard will lead you through the short process."
+msgstr ""
+
+#: inc/patterns/general/contact-2.php:46 inc/patterns/general/faq-1.php:74 
+#: inc/patterns/general/contact-1.php:66 inc/patterns/query/query-3.php:45 
+#: inc/patterns/query/query-3.php:76 inc/patterns/query/query-4.php:15 
+#: inc/patterns/query/query-4.php:46 inc/patterns/pages/shop-1.php:72
+msgid "Image"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:46 inc/admin/theme-admin.php:100
+msgid "Import"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:63
+msgid "Import Content"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:47
+msgid "Importing..."
+msgstr ""
+
+#: inc/patterns/general/contact-1.php:48
+msgid "info@example.com"
+msgstr ""
+
+#: inc/patterns/footer/footer-4.php:23 inc/patterns/footer/footer-2.php:39 
+#: inc/patterns/footer/footer-3.php:31 inc/patterns/footer/footer-1.php:124
+msgid "Information"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:41 inc/merlin/merlin-config.php:43 
+#: inc/merlin/merlin-config.php:45
+msgid "Install"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:55
+msgid "Install WooCommerce"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:59
+msgid ""
+"Installation failed: An unexpected error occurred. Something may be wrong "
+"with WordPress.org or this server's configuration."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1422 inc/merlin/class-merlin.php:1435 
+#: inc/merlin/class-merlin.php:1457
+msgid "Installing"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:44
+msgid "Installing..."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1276
+msgid "Invalid content!"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1360
+msgid "Invalid data!"
+msgstr ""
+
+#: inc/patterns/general/hero-6.php:19 inc/patterns/general/hero-5.php:19 
+#: inc/patterns/general/hero-7.php:67 inc/patterns/general/hero-4.php:18 
+#: inc/patterns/pages/shop-2.php:19 inc/patterns/pages/home-3.php:18 
+#: inc/patterns/pages/home-3.php:145
+msgid ""
+"It is time for a winter wardrobe refresh! Head to our Winter Street Fashion "
+"Sale for all the hottest looks at unbeatable prices"
+msgstr ""
+
+#: inc/patterns/general/hero-9.php:30 inc/patterns/pages/home.php:144 
+#: inc/patterns/pages/home-3.php:198
+msgid ""
+"It is time to freshen up your wardrobe with our latest fashion collection! "
+"From bold statement pieces to classic staples, our collection has something "
+"for everyone. Update your style today and be the trendsetter you know you "
+"are!"
+msgstr ""
+
+#: inc/patterns/pages/home.php:188 inc/patterns/ecommerce/ecommerce-6.php:38
+msgid "Jacket"
+msgstr ""
+
+#: inc/patterns/pages/home.php:200 inc/patterns/ecommerce/ecommerce-6.php:50
+msgid "Jeans"
+msgstr ""
+
+#: inc/patterns/general/testimonials-1.php:66
+msgid "Lane Doe"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:64
+msgid ""
+"Let's import content to your website. This could take some minutes. Please "
+"wait."
+msgstr ""
+
+#: inc/merlin/merlin-config.php:57
+msgid ""
+"Let's install & activate the WooCommerce plugin to enable all the eCommerce "
+"features you need."
+msgstr ""
+
+#: inc/patterns/pages/home-4.php:179 inc/patterns/pages/home-3.php:269 
+#: inc/patterns/pages/about.php:293 inc/patterns/pages/home-1.php:271 
+#: inc/patterns/pages/home-2.php:309 inc/patterns/ecommerce/ecommerce-3.php:59 
+#: inc/patterns/ecommerce/ecommerce-8.php:65
+msgid "Lili Boe"
+msgstr ""
+
+#: inc/patterns/general/team-1.php:81 inc/patterns/general/team-3.php:70 
+#: inc/patterns/general/team-2.php:77
+msgid "Line Kind"
+msgstr ""
+
+#: inc/block-styles.php:292 inc/block-styles.php:301
+msgid "Link No Border"
+msgstr ""
+
+#: inc/patterns/general/contact-2.php:30 inc/patterns/general/contact-2.php:40
+msgid "London Street 123"
+msgstr ""
+
+#: inc/patterns/query/query-3.php:85 inc/patterns/query/query-4.php:55 
+#: inc/patterns/pages/shop-1.php:81
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris purus urna."
+msgstr ""
+
+#: inc/patterns/general/testimonials-1.php:44
+msgid "Love Smith"
+msgstr ""
+
+#: inc/admin/theme-admin.php:65
+msgid "Made by "
+msgstr ""
+
+#: inc/patterns/general/team-3.php:74 inc/patterns/general/team-2.php:81
+msgid "Marketing"
+msgstr ""
+
+#: inc/patterns/general/team-1.php:77
+msgid "marketing"
+msgstr ""
+
+#: inc/block-styles.php:336
+msgid "Mega Menu"
+msgstr ""
+
+#: inc/patterns/general/testimonials-3.php:12 
+#: inc/patterns/general/testimonials-3.php:36 
+#: inc/patterns/general/testimonials-3.php:48 
+#: inc/patterns/general/testimonials-3.php:72 
+#: inc/patterns/general/testimonials-3.php:84 
+#: inc/patterns/general/testimonials-3.php:108 
+#: inc/patterns/general/testimonials-1.php:26 
+#: inc/patterns/general/testimonials-1.php:48 
+#: inc/patterns/general/testimonials-1.php:70 
+#: inc/patterns/general/testimonials-2.php:32 
+#: inc/patterns/general/testimonials-2.php:64 
+#: inc/patterns/general/testimonials-2.php:96
+msgid "Member"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-downloader.php:66
+msgid "Missing URL for downloading a file!"
+msgstr ""
+
+#: inc/patterns/general/about-2.php:52 inc/patterns/general/about-4.php:40 
+#: inc/patterns/pages/home-3.php:62 inc/patterns/pages/about.php:120 
+#: inc/patterns/pages/home-1.php:78 inc/patterns/pages/home-2.php:78 
+#: inc/patterns/footer/footer-1.php:41
+msgid "Money Guarantee"
+msgstr ""
+
+#: inc/patterns/general/faq-2.php:45 inc/patterns/general/about-2.php:56 
+#: inc/patterns/general/faq-1.php:46 inc/patterns/pages/about.php:124
+msgid ""
+"Money Guarantee ensures that you will receive your full purchase price back "
+"if you are not satisfied with your purchase."
+msgstr ""
+
+#: inc/patterns/footer/footer-4.php:31 inc/patterns/footer/footer-2.php:47 
+#: inc/patterns/footer/footer-3.php:39 inc/patterns/footer/footer-1.php:132
+msgid "My Account"
+msgstr ""
+
+#: inc/patterns/general/hero-1.php:12 inc/patterns/general/hero-2.php:12 
+#: inc/patterns/pages/home.php:70 inc/patterns/pages/home-4.php:12 
+#: inc/patterns/pages/home-1.php:12 inc/patterns/pages/home-2.php:12
+msgid "New"
+msgstr ""
+
+#: inc/patterns/ecommerce/ecommerce-4.php:35
+msgid "New in Shop"
+msgstr ""
+
+#: inc/patterns/pages/home.php:104 inc/patterns/pages/home-3.php:160 
+#: inc/patterns/pages/home-2.php:192 inc/patterns/ecommerce/ecommerce-9.php:10
+msgid "Newest Products"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:37
+msgid "Next"
+msgstr ""
+
+#: inc/patterns/ecommerce/ecommerce-4.php:13
+msgid "OFF *"
+msgstr ""
+
+#: inc/patterns/general/contact-2.php:36
+msgid "Office"
+msgstr ""
+
+#: inc/patterns/general/hero-9.php:26 inc/patterns/pages/home.php:48 
+#: inc/patterns/pages/home.php:140 inc/patterns/pages/home-4.php:46 
+#: inc/patterns/pages/home-4.php:106 inc/patterns/pages/home-3.php:118 
+#: inc/patterns/pages/home-3.php:194 inc/patterns/pages/home-1.php:135 
+#: inc/patterns/pages/home-1.php:197 inc/patterns/pages/home-2.php:134 
+#: inc/patterns/ecommerce/ecommerce-7.php:10 
+#: inc/patterns/ecommerce/ecommerce-5.php:10
+msgid "On Sale"
+msgstr ""
+
+#: inc/patterns/ecommerce/ecommerce-4.php:39
+msgid "on select styles."
+msgstr ""
+
+#: inc/patterns/general/about-2.php:82 inc/patterns/general/about-4.php:60 
+#: inc/patterns/pages/home-3.php:82 inc/patterns/pages/about.php:150 
+#: inc/patterns/pages/home-1.php:98 inc/patterns/pages/home-2.php:98 
+#: inc/patterns/footer/footer-1.php:61
+msgid "Online Support"
+msgstr ""
+
+#: inc/patterns/query/query-3.php:91 inc/patterns/query/query-4.php:61 
+#: inc/patterns/pages/shop-1.php:87
+msgid "Order Now"
+msgstr ""
+
+#: inc/patterns/footer/footer-3.php:75
+msgid "Our Events"
+msgstr ""
+
+#: inc/patterns/footer/footer-4.php:67
+msgid "Our Latest Collection"
+msgstr ""
+
+#: inc/patterns/general/about-3.php:25 inc/patterns/general/about-1.php:33 
+#: inc/patterns/general/about-2.php:21 inc/patterns/pages/home-4.php:79 
+#: inc/patterns/pages/about.php:33 inc/patterns/pages/about.php:89 
+#: inc/patterns/pages/about.php:181 inc/patterns/pages/home-1.php:169 
+#: inc/patterns/pages/home-2.php:227
+msgid "Our Mission"
+msgstr ""
+
+#: inc/patterns/general/about-2.php:86 inc/patterns/pages/about.php:154
+msgid ""
+"Our online support is focused on providing our customers with fast, reliable "
+"and helpful support. We are available via email &amp; chat to answer any "
+"questions."
+msgstr ""
+
+#: inc/patterns/pages/home.php:53 inc/patterns/pages/home-4.php:51 
+#: inc/patterns/pages/home-4.php:111 inc/patterns/pages/home-3.php:123 
+#: inc/patterns/pages/home-1.php:140 inc/patterns/pages/home-1.php:202 
+#: inc/patterns/pages/home-2.php:139 inc/patterns/ecommerce/ecommerce-7.php:15 
+#: inc/patterns/ecommerce/ecommerce-5.php:15
+#, php-format
+msgid "Our winter fashion sale is now on, with up to 40% off select styles."
+msgstr ""
+
+#: inc/block-styles.php:206
+msgid "Outline Shadow"
+msgstr ""
+
+#: inc/block-patterns.php:25
+msgid "Pages"
+msgstr ""
+
+#: inc/patterns/general/about-4.php:84 inc/patterns/pages/home-3.php:106 
+#: inc/patterns/pages/home-1.php:122 inc/patterns/pages/home-2.php:122 
+#: inc/patterns/footer/footer-1.php:85
+msgid "Pay with Multiple Credit Cards"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1421 inc/merlin/class-merlin.php:1434
+msgid "Pending"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:519
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:514
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:640
+msgid "Plugins"
+msgstr ""
+
+#: inc/block-patterns.php:22
+msgid "Pricing Table"
+msgstr ""
+
+#: inc/patterns/footer/footer-4.php:61 inc/patterns/footer/footer-2.php:79 
+#: inc/patterns/footer/footer-3.php:69 inc/patterns/footer/footer-1.php:164
+msgid "Privacy Policy"
+msgstr ""
+
+#: functions.php:111
+msgid "Processing"
+msgstr ""
+
+#: inc/patterns/general/faq-2.php:10 inc/patterns/general/faq-1.php:12
+msgid "questions?"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:653
+msgid "Ready"
+msgstr ""
+
+#: inc/patterns/footer/footer-4.php:71
+msgid ""
+"Refresh your wardrobe with our latest selection of stylish apparel. Update "
+"your style today with our new fashion collection!"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:33
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/patterns/pages/home-4.php:126 inc/patterns/pages/home-3.php:216 
+#: inc/patterns/pages/home-1.php:218 inc/patterns/pages/home-2.php:256 
+#: inc/patterns/ecommerce/ecommerce-8.php:12
+msgid "Reviews"
+msgstr ""
+
+#: inc/patterns/general/testimonials-3.php:112 
+#: inc/patterns/general/testimonials-2.php:68 
+#: inc/patterns/pages/home-4.php:139 inc/patterns/pages/home-3.php:229 
+#: inc/patterns/pages/about.php:213 inc/patterns/pages/about.php:253 
+#: inc/patterns/pages/home-1.php:231 inc/patterns/pages/home-2.php:269 
+#: inc/patterns/ecommerce/ecommerce-3.php:19 
+#: inc/patterns/ecommerce/ecommerce-8.php:25
+msgid "Rose Smith"
+msgstr ""
+
+#: inc/patterns/ecommerce/ecommerce-4.php:17
+msgid "SALE"
+msgstr ""
+
+#: inc/block-styles.php:354 inc/block-styles.php:363
+msgid "Scroll"
+msgstr ""
+
+#: inc/patterns/footer/scroll-to-top.php:6 
+#: inc/patterns/footer/scroll-to-top.php:9
+msgid "Scroll to Top"
+msgstr ""
+
+#: inc/patterns/footer/footer-2.php:23 inc/patterns/footer/footer-1.php:108
+msgid "See Our Stores"
+msgstr ""
+
+#: inc/patterns/general/faq-1.php:88
+msgid "Send your Question"
+msgstr ""
+
+#: inc/patterns/footer/footer-4.php:45 inc/patterns/footer/footer-2.php:63 
+#: inc/patterns/footer/footer-3.php:53 inc/patterns/footer/footer-1.php:148
+msgid "Services"
+msgstr ""
+
+#: inc/block-styles.php:26 inc/block-styles.php:35 inc/block-styles.php:44 
+#: inc/block-styles.php:80 inc/block-styles.php:89 inc/block-styles.php:310
+msgid "Shadow"
+msgstr ""
+
+#: inc/block-styles.php:53
+msgid "Shape One"
+msgstr ""
+
+#: inc/block-styles.php:71
+msgid "Shape Three"
+msgstr ""
+
+#: inc/block-styles.php:62
+msgid "Shape Two"
+msgstr ""
+
+#: inc/patterns/pages/home.php:210 inc/patterns/ecommerce/ecommerce-6.php:60
+msgid "Shirts"
+msgstr ""
+
+#: inc/patterns/pages/shop.php:6 inc/patterns/footer/footer-4.php:27 
+#: inc/patterns/footer/footer-2.php:43 inc/patterns/footer/footer-3.php:35 
+#: inc/patterns/footer/footer-1.php:128
+msgid "Shop"
+msgstr ""
+
+#: inc/patterns/pages/shop-1.php:6
+msgid "Shop 1"
+msgstr ""
+
+#: inc/patterns/pages/shop-2.php:6
+msgid "Shop 2"
+msgstr ""
+
+#: inc/patterns/pages/home.php:160 inc/patterns/ecommerce/ecommerce-6.php:10
+msgid "Shop by Categories"
+msgstr ""
+
+#: inc/patterns/general/hero-1.php:21 inc/patterns/general/hero-2.php:21 
+#: inc/patterns/pages/home.php:79 inc/patterns/pages/home-4.php:21 
+#: inc/patterns/pages/home-1.php:21 inc/patterns/pages/home-2.php:21 
+#: inc/patterns/ecommerce/ecommerce-1.php:35 
+#: inc/patterns/ecommerce/ecommerce-1.php:65 
+#: inc/patterns/ecommerce/ecommerce-1.php:95 
+#: inc/patterns/ecommerce/ecommerce-2.php:36 
+#: inc/patterns/ecommerce/ecommerce-2.php:68 
+#: inc/patterns/ecommerce/ecommerce-2.php:100 
+#: inc/patterns/ecommerce/ecommerce-4.php:44 
+#: inc/patterns/footer/footer-4.php:77
+msgid "Shop Now"
+msgstr ""
+
+#: inc/patterns/general/hero-6.php:24 inc/patterns/general/hero-5.php:24 
+#: inc/patterns/general/hero-8.php:26 inc/patterns/general/hero-3.php:40 
+#: inc/patterns/general/hero-7.php:72 inc/patterns/general/hero-4.php:23 
+#: inc/patterns/general/hero-9.php:35 inc/patterns/pages/home.php:26 
+#: inc/patterns/pages/home.php:149 inc/patterns/pages/shop-2.php:24 
+#: inc/patterns/pages/home-3.php:23 inc/patterns/pages/home-3.php:150 
+#: inc/patterns/pages/home-3.php:203 inc/patterns/pages/home-2.php:170
+msgid "Shop the Sale"
+msgstr ""
+
+#: inc/patterns/pages/home-4.php:130 inc/patterns/pages/home-3.php:220 
+#: inc/patterns/pages/home-1.php:222 inc/patterns/pages/home-2.php:260 
+#: inc/patterns/ecommerce/ecommerce-8.php:16
+msgid "Shop with us today and experience the best in fashion!"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:36
+msgid "Skip"
+msgstr ""
+
+#: inc/patterns/general/testimonials-3.php:40
+msgid "Smily Lone"
+msgstr ""
+
+#: inc/patterns/general/testimonials-2.php:100
+msgid "Smily Stone"
+msgstr ""
+
+#: inc/patterns/footer/footer-2.php:87 inc/patterns/footer/footer-1.php:172
+msgid "Social Media"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:374
+msgid "Something went wrong. Please refresh the page and try again!"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:38
+msgid "Start"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:76
+msgid "Start Customizing"
+msgstr ""
+
+#: inc/patterns/general/contact-2.php:26
+msgid "Store"
+msgstr ""
+
+#: inc/patterns/general/about-3.php:16 inc/patterns/pages/home-4.php:70 
+#: inc/patterns/pages/home-1.php:160 inc/patterns/pages/home-2.php:218
+msgid "Stree wear inspires us to be unique always."
+msgstr ""
+
+#: inc/patterns/general/about-1.php:24 inc/patterns/general/about-2.php:16 
+#: inc/patterns/general/hero-7.php:63 inc/patterns/pages/about.php:24 
+#: inc/patterns/pages/about.php:84
+msgid "Street"
+msgstr ""
+
+#: inc/patterns/general/hero-6.php:15 inc/patterns/general/hero-5.php:15 
+#: inc/patterns/general/hero-4.php:14 inc/patterns/pages/home.php:180 
+#: inc/patterns/pages/shop-2.php:15 inc/patterns/pages/home-3.php:14 
+#: inc/patterns/pages/home-3.php:141 inc/patterns/ecommerce/ecommerce-6.php:30
+msgid "Street Fashion"
+msgstr ""
+
+#: inc/patterns/general/about-3.php:20 inc/patterns/general/about-2.php:28 
+#: inc/patterns/pages/home-4.php:74 inc/patterns/pages/about.php:96 
+#: inc/patterns/pages/about.php:176 inc/patterns/pages/home-1.php:164 
+#: inc/patterns/pages/home-2.php:222
+msgid ""
+"Street fashion for women is all about embracing your individual style, while "
+"also having fun with fashion trends. From statement pieces to classic "
+"staples, street fashion can be whatever you want it to be."
+msgstr ""
+
+#: inc/patterns/general/about-1.php:28 inc/patterns/pages/about.php:28
+msgid ""
+"Street fashion is a style of fashion that is worn by people in the streets "
+"and public places, such as parks, malls, and other public venues. Street "
+"fashion is usually influenced by the latest trends in the fashion industry, "
+"as well as popular culture and social media."
+msgstr ""
+
+#: inc/patterns/general/contact-2.php:30 inc/patterns/general/contact-2.php:40
+msgid "Street Name, 78"
+msgstr ""
+
+#: inc/patterns/pages/home-4.php:208 inc/patterns/pages/home-3.php:298 
+#: inc/patterns/pages/about.php:322 inc/patterns/pages/home-1.php:300 
+#: inc/patterns/pages/home-2.php:338 inc/patterns/ecommerce/ecommerce-1.php:56 
+#: inc/patterns/ecommerce/ecommerce-2.php:59 
+#: inc/patterns/ecommerce/ecommerce-3.php:88 
+#: inc/patterns/ecommerce/ecommerce-8.php:94
+msgid "Street Shirt"
+msgstr ""
+
+#: inc/patterns/pages/about.php:172
+msgid "Street wear inspires us to be unique always."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1423 inc/merlin/class-merlin.php:1436
+msgid "Success"
+msgstr ""
+
+#: inc/block-patterns.php:19
+msgid "Team"
+msgstr ""
+
+#: inc/patterns/general/team-1.php:6
+msgid "Team 1"
+msgstr ""
+
+#: inc/patterns/general/team-1.php:13 inc/patterns/general/team-1.php:43 
+#: inc/patterns/general/team-1.php:73 inc/patterns/general/team-2.php:12 
+#: inc/patterns/general/team-2.php:42 inc/patterns/general/team-2.php:72
+msgid "Team Member"
+msgstr ""
+
+#: inc/patterns/general/team-2.php:6
+msgid "Team/Volunteers 2"
+msgstr ""
+
+#: inc/patterns/general/team-3.php:6
+msgid "Team/Volunteers 3"
+msgstr ""
+
+#: inc/patterns/general/contact-1.php:24
+msgid "Tel:"
+msgstr ""
+
+#: inc/block-patterns.php:20
+msgid "Testimonials"
+msgstr ""
+
+#: inc/patterns/general/testimonials-1.php:6
+msgid "Testimonials 1"
+msgstr ""
+
+#: inc/patterns/general/testimonials-2.php:6
+msgid "Testimonials 2"
+msgstr ""
+
+#: inc/patterns/general/testimonials-3.php:6
+msgid "Testimonials 3"
+msgstr ""
+
+#: inc/admin/theme-admin.php:191
+msgid "Thank you for choosing Avalon!"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1488
+msgid "The blog page was set"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1185
+msgid "The child theme functions.php content was generated"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:830
+msgid "The child theme installation step has been displayed"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1250
+msgid ""
+"The child theme screenshot was copied to the child theme, with the following "
+"result"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1252
+msgid "The child theme screenshot was not generated, because of these results"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1216
+msgid "The child theme style.css content was generated"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1330
+msgid "The content import AJAX call failed with this passed data"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1288
+msgid "The content import AJAX call will be executed with this import data"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:986
+msgid "The content import step has been displayed"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1271
+msgid ""
+"The content importer AJAX call failed to start, because of incorrect data"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1355
+msgid ""
+"The content importer AJAX call for retrieving total content import items "
+"failed to start, because of incorrect data."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1109
+msgid "The existing child theme was activated"
+msgstr ""
+
+#: inc/merlin/includes/class-merlin-downloader.php:49
+msgid "The file was not able to save to disk, while trying to download it"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1066
+msgid "The final step has been displayed"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1503
+msgid "The Hello world post status was set to draft"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1478
+msgid "The home page was set"
+msgstr ""
+
+#: inc/patterns/pages/home.php:109 inc/patterns/pages/home-3.php:165 
+#: inc/patterns/pages/home-2.php:197 inc/patterns/ecommerce/ecommerce-9.php:15 
+#: inc/patterns/footer/footer-4.php:17 inc/patterns/footer/footer-3.php:15
+msgid ""
+"The newest fashion products in 2023 have been all about bold, daring and "
+"unique designs."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1126
+msgid "The newly generated child theme was activated"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:761
+msgid "The welcome step has been displayed"
+msgstr ""
+
+#: inc/admin/theme-admin.php:48
+msgid "Theme Demo"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:29
+msgid "Theme Setup"
+msgstr ""
+
+#: inc/patterns/hidden/hidden-404.php:12
+msgid "This page could not be found. Maybe try a search?"
+msgstr ""
+
+#: inc/merlin/class-merlin.php:1527
+msgid ""
+"This predefined demo import does not have the name parameter: "
+"import_file_name"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:52
+msgid ""
+"This wizard will set up your theme, install plugins, and import content. It "
+"should take only a few minutes."
+msgstr ""
+
+#: inc/patterns/ecommerce/ecommerce-1.php:26 
+#: inc/patterns/ecommerce/ecommerce-2.php:27
+msgid "Trendy Jacket"
+msgstr ""
+
+#: inc/patterns/general/about-1.php:43 inc/patterns/pages/about.php:43
+msgid "Trusted by over&nbsp;"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:39
+msgid "Try Again"
+msgstr ""
+
+#: inc/block-styles.php:265
+msgid "Underline Hover"
+msgstr ""
+
+#: inc/patterns/ecommerce/ecommerce-4.php:13
+msgid "Up to"
+msgstr ""
+
+#: inc/patterns/pages/home-4.php:248 inc/patterns/pages/home-3.php:338 
+#: inc/patterns/pages/about.php:362 inc/patterns/pages/home-1.php:340 
+#: inc/patterns/pages/home-2.php:378 inc/patterns/ecommerce/ecommerce-1.php:86 
+#: inc/patterns/ecommerce/ecommerce-2.php:91 
+#: inc/patterns/ecommerce/ecommerce-3.php:128 
+#: inc/patterns/ecommerce/ecommerce-8.php:134
+msgid "Urban Jacket"
+msgstr ""
+
+#: inc/admin/theme-admin.php:116
+msgid "Useful Links"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:73
+msgid "View your website"
+msgstr ""
+
+#: inc/admin/theme-admin.php:193
+msgid ""
+"Visit the getting started page for more info and import your favorite theme "
+"demo."
+msgstr ""
+
+#: inc/patterns/general/contact-2.php:16
+msgid "We are here to help you with any inquiry. Call us or visit us."
+msgstr ""
+
+#: inc/patterns/ecommerce/ecommerce-4.php:39
+msgid "We have refreshed our sale with discounts of up to "
+msgstr ""
+
+#: inc/patterns/general/faq-1.php:83
+msgid "We will answer your questions as soon as possible."
+msgstr ""
+
+#: inc/merlin/class-merlin.php:628
+msgid "Welcome"
+msgstr ""
+
+#. Theme Name
+#: inc/merlin/merlin-config.php:50
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: inc/patterns/general/hero-1.php:16 inc/patterns/general/hero-2.php:16 
+#: inc/patterns/pages/home.php:74 inc/patterns/pages/home-4.php:16 
+#: inc/patterns/pages/home-1.php:16 inc/patterns/pages/home-2.php:16
+msgid ""
+"Welcome to our new fashion collection! This season, we are bringing you a "
+"fresh array of modern looks to keep your style on point. Whether you are "
+"looking for something classic or bold, this collection has something for "
+"everyone."
+msgstr ""
+
+#: inc/patterns/general/hero-8.php:21 inc/patterns/general/hero-3.php:35 
+#: inc/patterns/pages/home.php:21 inc/patterns/pages/home-2.php:165
+msgid ""
+"Welcome to the winter fashion sale! Get ready to save on the latest looks!"
+msgstr ""
+
+#: inc/patterns/general/faq-2.php:10 inc/patterns/general/faq-1.php:12
+msgid "Well, we have all the "
+msgstr ""
+
+#: inc/patterns/general/hero-6.php:11 inc/patterns/general/hero-5.php:11 
+#: inc/patterns/general/hero-8.php:13 inc/patterns/general/hero-3.php:27 
+#: inc/patterns/general/hero-4.php:10 inc/patterns/pages/home.php:13 
+#: inc/patterns/pages/shop-2.php:11 inc/patterns/pages/home-3.php:10 
+#: inc/patterns/pages/home-3.php:137 inc/patterns/pages/home-2.php:157
+msgid "Winter Sale"
+msgstr ""
+
+#: inc/patterns/general/about-4.php:44 inc/patterns/pages/home-3.php:66 
+#: inc/patterns/pages/home-1.php:82 inc/patterns/pages/home-2.php:82 
+#: inc/patterns/footer/footer-1.php:45
+msgid "Within 30 days for an exchange."
+msgstr ""
+
+#: inc/merlin/merlin-config.php:58
+msgid "WooCommerce plugin has been installed and is now activated."
+msgstr ""
+
+#: inc/patterns/general/about-1.php:67 inc/patterns/pages/about.php:67
+msgid "Worldwide Sales per Year"
+msgstr ""
+
+#: inc/merlin/merlin-config.php:53
+msgid ""
+"You may have already run this theme setup wizard. If you would like to "
+"proceed anyway, click on the \"Start\" button below."
+msgstr ""
+
+#: inc/merlin/merlin-config.php:56
+msgid "You're up to speed!"
+msgstr ""
+
+#: inc/patterns/general/faq-2.php:27 inc/patterns/general/about-2.php:42 
+#: inc/patterns/general/faq-1.php:28 inc/patterns/pages/about.php:110
+msgid ""
+"Your items will be shipped for free using our standard shipping method. "
+"Please allow 1-2 weeks for delivery."
+msgstr ""
+
+#. Theme Author
+#: inc/merlin/merlin-config.php:71
+msgid "Your theme has been all set up."
+msgstr ""
+
+#: inc/patterns/general/team-1.php:21 
+#: inc/patterns/general/testimonials-1.php:22 
+#: inc/patterns/general/team-3.php:14 inc/patterns/general/team-2.php:17
+msgid "Yuna Lane"
+msgstr ""
+
+#: inc/patterns/general/testimonials-3.php:76 
+#: inc/patterns/general/testimonials-2.php:36
+msgid "Yuna Lone"
+msgstr ""
+
+#: inc/patterns/query/query-3.php:49 inc/patterns/query/query-4.php:19
+msgid "Yuna Smile"
+msgstr ""
+
+#: inc/patterns/footer/footer-2.php:116 inc/patterns/footer/footer-1.php:203
+msgid "© 2022"
+msgstr ""
+
+#: inc/patterns/footer/footer-4.php:91 inc/patterns/footer/footer-3.php:106 
+#: inc/patterns/footer/footer-5.php:50
+msgid "© 2022 Your Company LLC ·"
+msgstr ""
+
+#: inc/patterns/general/testimonials-3.php:25 
+#: inc/patterns/general/testimonials-3.php:61 
+#: inc/patterns/general/testimonials-3.php:97 
+#: inc/patterns/general/about-1.php:53 
+#: inc/patterns/general/testimonials-2.php:21 
+#: inc/patterns/general/testimonials-2.php:53 
+#: inc/patterns/general/testimonials-2.php:85 
+#: inc/patterns/pages/home-4.php:143 inc/patterns/pages/home-4.php:183 
+#: inc/patterns/pages/home-4.php:223 inc/patterns/pages/home-3.php:233 
+#: inc/patterns/pages/home-3.php:273 inc/patterns/pages/home-3.php:313 
+#: inc/patterns/pages/about.php:53 inc/patterns/pages/about.php:217 
+#: inc/patterns/pages/about.php:257 inc/patterns/pages/about.php:297 
+#: inc/patterns/pages/about.php:337 inc/patterns/pages/home-1.php:235 
+#: inc/patterns/pages/home-1.php:275 inc/patterns/pages/home-1.php:315 
+#: inc/patterns/pages/home-2.php:273 inc/patterns/pages/home-2.php:313 
+#: inc/patterns/pages/home-2.php:353 inc/patterns/ecommerce/ecommerce-1.php:17 
+#: inc/patterns/ecommerce/ecommerce-1.php:47 
+#: inc/patterns/ecommerce/ecommerce-1.php:77 
+#: inc/patterns/ecommerce/ecommerce-2.php:18 
+#: inc/patterns/ecommerce/ecommerce-2.php:50 
+#: inc/patterns/ecommerce/ecommerce-2.php:82 
+#: inc/patterns/ecommerce/ecommerce-3.php:23 
+#: inc/patterns/ecommerce/ecommerce-3.php:63 
+#: inc/patterns/ecommerce/ecommerce-3.php:103 
+#: inc/patterns/ecommerce/ecommerce-8.php:29 
+#: inc/patterns/ecommerce/ecommerce-8.php:69 
+#: inc/patterns/ecommerce/ecommerce-8.php:109
+msgid "★★★★★"
+msgstr ""
+
+#: inc/patterns/general/testimonials-3.php:17 
+#: inc/patterns/general/testimonials-3.php:53 
+#: inc/patterns/general/testimonials-3.php:89 
+#: inc/patterns/general/testimonials-2.php:13 
+#: inc/patterns/general/testimonials-2.php:45 
+#: inc/patterns/general/testimonials-2.php:77
+msgid "❞"
+msgstr ""

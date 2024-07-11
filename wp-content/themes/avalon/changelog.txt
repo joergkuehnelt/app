@@ -1,0 +1,24 @@
+*** Avalon Changelog ***
+
+2023-25-09 - version 1.0.5
+* PHP 8.2 fix for the Merlin One Click Demo Install
+* few style fixes for the WooCommerce on sale and add to card buttons
+
+2023-23-08 - version 1.0.4
+* small fixes for the WooCommerce Shop by Category block
+* small fix for the Editor
+
+2023-06-06 - version 1.0.3
+* small fixes for the gallery and thumbnails
+* small fix for the WooCommerce buttons padding
+* small fix for the navigation underline issue when added to the page content
+
+2023-31-01 - version 1.0.2
+* small fixes for the loader and product pages
+
+2023-24-01 - version 1.0.1
+* small fix for the hero-2 pattern on mobile view
+
+2023-23-01 - version 1.0.0
+* Inital release
+

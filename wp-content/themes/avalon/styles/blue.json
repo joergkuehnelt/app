@@ -1,0 +1,67 @@
+{
+		"version": 2,
+		"settings": {
+				"color": {
+						"palette": [
+							{
+								"slug": "foreground",
+								"color": "#19345C",
+								"name": "Foreground"
+							},
+							{
+								"slug": "background",
+								"color": "#FFFFFF",
+								"name": "Background"
+							},
+							{
+								"slug": "primary",
+								"color": "#FFC1A7",
+								"name": "Primary"
+							},
+							{
+								"slug": "secondary",
+								"color": "#E9F1FB",
+								"name": "Secondary"
+							},
+							{
+								"slug": "tertiary",
+								"color": "#D1D8E1",
+								"name": "Tertiary"
+							},
+							{
+								"slug": "quaternary",
+								"color": "#BED6F3",
+								"name": "Quaternary"
+							},
+							{
+								"slug": "quinary",
+								"color": "#A8C8EF",
+								"name": "Quinary"
+							},
+							{
+								"slug": "senary",
+								"color": "#D3E3F7",
+								"name": "Senary"
+							},
+							{
+								"slug": "septenary",
+								"color": "#F6F6F6",
+								"name": "Septenary"
+							}
+						]
+				}
+		},
+
+		"styles": {
+			"elements": {
+			"heading": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--ibarra-real-nova)"
+				}
+			}
+		},
+			"typography": {
+				"fontFamily": "var(--wp--preset--font-family--work-sans)"
+			}
+		}
+}

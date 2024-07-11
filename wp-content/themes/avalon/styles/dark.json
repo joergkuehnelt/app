@@ -1,0 +1,59 @@
+{
+		"version": 2,
+		"settings": {
+				"color": {
+                    "palette": [
+                        {
+                            "slug": "foreground",
+                            "color": "#FFFFFF",
+                            "name": "Foreground"
+                        },
+                        {
+                            "slug": "background",
+                            "color": "#000000",
+                            "name": "Background"
+                        },
+                        {
+                            "slug": "primary",
+                            "color": "#323232",
+                            "name": "Primary"
+                        },
+                        {
+                            "slug": "secondary",
+                            "color": "#191919",
+                            "name": "Secondary"
+                        },
+                        {
+                            "slug": "tertiary",
+                            "color": "#666666",
+                            "name": "Tertiary"
+                        },
+                        {
+                            "slug": "quaternary",
+                            "color": "#7F7F7F",
+                            "name": "Quaternary"
+                        },
+                        {
+                            "slug": "quinary",
+                            "color": "#999999",
+                            "name": "Quinary"
+                        },
+                        {
+                            "slug": "senary",
+                            "color": "#CCCCCC",
+                            "name": "Senary"
+                        },
+                        {
+                            "slug": "septenary",
+                            "color": "#262626",
+                            "name": "Septenary"
+                        }
+                    ]
+                }
+            },
+		"styles": {
+            "color": {
+                "text": "var(--wp--preset--color--foreground)"
+            }
+        }
+}
